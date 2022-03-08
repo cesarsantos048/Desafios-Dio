@@ -7,10 +7,13 @@ namespace Desafio
     {
         static void Main(string[] args)
         {
-            Heroi Heroi = new Heroi("Cesar", 23, "Knight");
-            Mago desafio = new Mago("teste", 23, "tar");
-
-            Console.WriteLine(desafio.Ataque(13));
+             double A, B, C;
+            A = double.Parse(Console.ReadLine());
+            B = double.Parse(Console.ReadLine());
+            C = double.Parse(Console.ReadLine());
+            double media = ((2 * A) + (3 * B) + (5 * C))/10;
+            Console.WriteLine($"MEDIA = {media.ToString("N1")}");
+            Console.ReadKey();
         }
     }
 }

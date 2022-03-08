@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\repos\\Desafios-Dio\\Desafio\\Desafio.csproj",
-      "projectName": "Desafio",
-      "projectPath": "D:\\repos\\Desafios-Dio\\Desafio\\Desafio.csproj",
+      "projectUniqueName": "D:\\repos\\Desafios-Dio\\AppSerie\\AppSerie.csproj",
+      "projectName": "AppSerie",
+      "projectPath": "D:\\repos\\Desafios-Dio\\AppSerie\\AppSerie.csproj",
       "packagesPath": "C:\\Users\\Cesar\\.nuget\\packages\\",
-      "outputPath": "D:\\repos\\Desafios-Dio\\Desafio\\obj\\",
+      "outputPath": "D:\\repos\\Desafios-Dio\\AppSerie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Cesar\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
       }
     }
   }
